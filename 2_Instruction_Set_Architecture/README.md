@@ -12,9 +12,9 @@
 * Communicating with people
 * Addressing for 32-bit immediate and addresses
     * Branch addresing
-    
-        ![](./pics/image-1.png =300x)
-        ![](./pics/branch_addressing_2.jpeg)
+        
+        <img src="./pics/image-1.png" width="60%">
+        <img src="./pics/branch_addressing_2.jpeg" width="60%">
 * Translating and starting a program
 * A sort example
 * Arrays versus pointers
