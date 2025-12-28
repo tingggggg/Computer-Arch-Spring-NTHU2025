@@ -20,7 +20,7 @@
         * MIPS addressing mode (Immediate, Register, Base, PC-releative and Pseudodirect)
 
         <img src="./pics/image3.png" width="50%">
-        <img src="./pics/image2.png" width="50%"> 
+        <img src="./pics/image4.png" width="50%"> 
 
 * Translating and starting a program
 * A sort example
