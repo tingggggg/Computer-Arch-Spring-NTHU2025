@@ -16,6 +16,12 @@
 
         <img src="./pics/image-1.png" width="50%">
         <img src="./pics/branch_addressing_2.jpeg" width="50%">
+
+        * MIPS addressing mode (Immediate, Register, Base, PC-releative and Pseudodirect)
+
+        <img src="./pics/image.png" width="50%">
+        <img src="./pics/image2.png" width="50%"> 
+
 * Translating and starting a program
 * A sort example
 * Arrays versus pointers
