@@ -1,5 +1,9 @@
 # Computer-Arch-Spring-NTHU2025
 
+### Ref: [Computer Architecture Spring 2025](https://www.cs.nthu.edu.tw/~tingting/cs4100.html)
+
+
+### Outline:
 - [ ] 0: Course outline (Class: lec0.pptx) 
 - [ ] 1: Computer abstractions and technology (Class: lec1.ppt / Online: lec1.ppt)
 - [ ] 2: Instruction Set Architecture (Class: lec2.ppt / Online: lec2.ppt))
