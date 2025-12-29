@@ -30,3 +30,6 @@
 
     * Measuring and evaluating performance
     * Cost
+        * MIPS: Millons of Instructions Per Second
+        
+           <img src="./pics/image7.png" width="50%"> 
