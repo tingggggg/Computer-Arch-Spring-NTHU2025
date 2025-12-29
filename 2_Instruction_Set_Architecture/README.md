@@ -25,4 +25,7 @@
 * Translating and starting a program
 * A sort example
 * Arrays versus pointers
+
+    <img src="./pics/image5.png" width="50%"> 
+
 * ARM and x86 instruction sets
