@@ -22,7 +22,7 @@
 
         * Cascaded carry look-ahead adder
 
-            <img src="./pics/image6.png" width="50%"
+            <img src="./pics/image6.png" width="50%">
             <img src="./pics/image7.png" width="50%">
         
         * Multiple level carry look-ahead adder
