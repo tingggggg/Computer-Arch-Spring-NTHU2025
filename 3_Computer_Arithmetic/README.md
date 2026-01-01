@@ -47,6 +47,10 @@
             <img src="./pics/image10.png" width="50%">
 
 * Division (Sec. 3.4)
+    * Use same component as multiplication
+
+    <img src="./pics/image11.png" width="50%">
+     
 * Floating point (Sec. 3.5)
     * Representations
     * Addition and multiplication
