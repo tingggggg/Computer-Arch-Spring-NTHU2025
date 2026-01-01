@@ -31,7 +31,21 @@
 
 * Multiplication (Sec. 3.3, Appendix C)
     * Unsigned multiply
+        * Partial Product -> shitf left
+        * Multiplier -> shift left
+        * So Partial Product & Multiplier could be concated
+
+        <img src="./pics/image9.png" width="50%">
+
     * Signed multiply
+        * rule1: Multiplicand sign extended
+        * rule2: Sign bit
+            * 0 -> 0 x multiplicand
+            * 1 -> -1 x multiplicand
+        * why rule2?
+
+            <img src="./pics/image10.png" width="50%">
+
 * Division (Sec. 3.4)
 * Floating point (Sec. 3.5)
     * Representations
