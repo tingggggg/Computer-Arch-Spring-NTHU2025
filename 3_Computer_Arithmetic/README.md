@@ -53,4 +53,12 @@
      
 * Floating point (Sec. 3.5)
     * Representations
+        * sigle precision
+
+            <img src="./pics/image12.png" width="50%">
+
+        * double precision (larger significand for more accuracy)
+
+            <img src="./pics/image13.png" width="50%">
+
     * Addition and multiplication
