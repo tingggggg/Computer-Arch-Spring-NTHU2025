@@ -78,6 +78,10 @@
             | -- | -- |
             |1. Shift number with smaller exponent -> <br> 2. Add mantissa -> <br> 3. Normalize result -> <br> 4. Round and renormalize if necessary| <img src="./pics/image17.png" width="50%">|
 
+* Concluding Remarks
+
+    <img src="./pics/image18.png" width="50%">
+
             
 
            
