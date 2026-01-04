@@ -61,4 +61,14 @@
 
             <img src="./pics/image13.png" width="50%">
 
+        * Zero ans Special numbers
+
+            |exponent(8 bits)|significand|represent|
+            |--|--|--|
+            |0|0|zero <br> <img src="./pics/image14.png" width="50%">|
+            |0|non-zeros|denormalized numbers (w/o hidden one) <br> <img src="./pics/image15.png" width="50%">|
+            |255|0|+/- Infinity <br>  <img src="./pics/image16.png" width="50%"> |
+            |255|non-zeros|Not A Number (for debugging)|
+
+
     * Addition and multiplication
