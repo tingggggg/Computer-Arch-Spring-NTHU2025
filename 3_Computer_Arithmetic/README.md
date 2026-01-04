@@ -72,3 +72,13 @@
 
 
     * Addition and multiplication
+        * Addition - 4 steps 
+
+            |||
+            | -- | -- |
+            |1. Shift number with smaller exponent -> <br> 2. Add mantissa -> <br> 3. Normalize result -> <br> 4. Round and renormalize if necessary| <img src="./pics/image17.png" width="50%">|
+
+            
+
+           
+
