@@ -12,8 +12,19 @@
         <img src="./pics/image3.png" width="50%">
 
 * Analyzing the instruction set（step 1）
+
+     <img src="./pics/image4.png" width="50%">
+
 * Building the datapath（steps 2 and 3）
+    * Step 3c: Store/Load Operations
+
+       <img src="./pics/image5.png" width="50%">
+
 * A single-cycle implementation
+    * Critical Path
+
+       <img src="./pics/image6.png" width="50%">
+
 * Control for the single-cycle CPU（steps 4 and 5）
     * Control of CPU operations
     * ALU controller
