@@ -28,5 +28,8 @@
 * Control for the single-cycle CPU（steps 4 and 5）
     * Control of CPU operations
     * ALU controller
+        
+       <img src="./pics/image7.png" width="50%">
+
     * Main controller
 * Adding jump instruction
